@@ -90,3 +90,19 @@ body{
     width: 15px;
     
 }
+.plans{
+    margin: 70px 150px;
+}
+.plans h1,h3{
+    text-align: center;
+    font-family: 'Oswald', sans-serif;
+}
+.plans p{
+    color: darkgray;
+    text-align: center;
+    font-size: large;
+}
+.plans-icons{
+    display: flex;
+    justify-content: space-around;
+}
